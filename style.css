@@ -1,0 +1,15 @@
+/*
+Theme Name: My Awesome WP Theme
+Author: Gustavo Marquez
+Description: Mi primer tema Developed Full
+Version: 1.0.0
+License: GNU
+Tags:Full screen, Bootstrap
+Text Domain:mawt
+*/
+
+
+html {
+    font-family: 'Raleway', sans-serif;
+    background-color: #989196;
+}
